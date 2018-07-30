@@ -3,7 +3,6 @@ class Backer
 
   def initialize
     @name = name
-    @title = title
   end
 
 
