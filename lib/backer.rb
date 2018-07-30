@@ -5,14 +5,6 @@ class Backer
     @name = name
     @title = title
   end
-  
-
-
-
-
-
-
-
 
 
 
