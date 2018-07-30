@@ -6,6 +6,9 @@ class Backer
     @backed_project = []
   end
 
+  def backed_project(name)
+    project = Project.new(name)
+
 
 
 
